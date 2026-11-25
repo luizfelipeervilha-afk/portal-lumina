@@ -1,4 +1,4 @@
-Portal Lumina — Conscientização sobre a Depressão e Saúde Mental
+## Portal Lumina — Conscientização sobre a Depressão e Saúde Mental
 Projeto final desenvolvido para a disciplina de **Desenvolvimento de Interfaces (2/2026)** — CEUB (Prof. Dr. Felipe Batista da Silva).
 ## 1. Visão Geral
 O **Portal Lumina** é uma aplicação web responsiva desenvolvida com foco em acessibilidade (WCAG 2.1 AA), usabilidade e acolhimento humano, oferecendo informações científicas sobre a depressão, relatos de superação e direcionamento para serviços gratuitos de saúde mental.
